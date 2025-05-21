@@ -1,6 +1,6 @@
 # Ex.No: 5   Logic Programming – Factorial of number   
-### NAME : JANARTHANAN S                                                                        
-### REGISTER NUMBER : 212222040058
+### NAME : YUVARAJ B                                                                        
+### REGISTER NUMBER : 212222040186
 ### AIM: 
 To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
 ### Algorithm:
